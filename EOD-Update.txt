@@ -1,0 +1,94 @@
+
+Task : Digital Wallet
+
+Date : 03-06-2020
+
+	- install Cassandra
+	- enable authentication in Cassandra
+	- project set-up
+	- working on solving error in setup
+
+	Time taken 08:40 hrs
+
+Reference :
+
+	- Cassandra official documentation
+
+=============================================
+
+Task : Digital Wallet
+
+Date : 04-06-2020
+
+	- solving issue of lombok
+	- solving error in db migration
+	- System understanding
+	- register user and understand flow
+	- read about unirest
+	- understand the code structure
+
+	Time taken 08:40 hrs
+
+Reference :
+
+
+=============================================
+
+Task : Digital Wallet
+
+Date : 05-06-2020
+
+	- understanding Oauth2 implementation
+	- create multiple user with different roles
+	- understanding api execution
+	- read about Ngrok
+	- use Ngrok for tunnelling
+	- understanding the kyc process
+	- perform Kyc operation and understand the flow
+	
+	Time taken 08:30 hrs
+
+Reference :
+
+	- Ngroc official site
+
+=============================================	
+
+Task : Digital Wallet
+
+Date : 08-06-2020
+
+	- wallet creation
+	- wallet add
+	- payment methods
+	- add card and bank
+	- wallet top up
+	- understand the process
+	- understand the api execution
+	
+	Time taken 08:30 hrs
+
+Reference :
+
+
+===============================================
+
+Task : Digital Wallet
+
+Date : 09-06-2020
+
+	- api intigration
+	- modification in front-end
+	- writie restApiCall 
+	- test functanality 
+	- Transaction History
+	- Send Money
+	- add benificiaries
+	- understand use of yoti AML 
+	
+	Time taken 08:40 hrs
+
+Reference :
+
+
+=============================================	
