@@ -91,4 +91,21 @@ Date : 09-06-2020
 Reference :
 
 
+=============================================
+
+Task : Digital Wallet
+
+Date : 10-06-2020
+
+	- do little chanege in front-end
+	- qr-code generation
+	- recurring payment
+	- withdraw money
+	- wallet to bank money transfer 
+	
+	Time taken 08:40 hrs
+
+Reference :
+
+
 =============================================	
