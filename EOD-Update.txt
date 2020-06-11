@@ -108,4 +108,21 @@ Date : 10-06-2020
 Reference :
 
 
+=============================================
+
+Task : Digital Wallet
+
+Date : 11-06-2020
+
+	- change in admin panel
+	- changes in data table
+	- test the functanality 
+	- use some of feature
+	- understand the flow 
+	
+	Time taken 08:30 hrs
+
+Reference :
+
+
 =============================================	
