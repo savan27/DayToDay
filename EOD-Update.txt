@@ -142,4 +142,22 @@ Date : 12-06-2020
 Reference :
 
 
+=============================================
+
+Task : Digital Wallet
+
+Date : 15-06-2020
+
+	- understand admin panel functionality
+	- user management
+	- country management
+	- currency discount management
+	- view online currency rates
+	- bulk notification managemnt
+	
+	Time taken 08:40 hrs
+
+Reference :
+
+
 =============================================	
